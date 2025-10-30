@@ -1,0 +1,116 @@
+[
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "autor": "J.R.R. Tolkien",
+        "anoPubli": "1954-07-29",
+        "quantidadeEstoque": 25
+    },
+    {
+        "titulo": "Harry Potter e a Pedra Filosofal",
+        "autor": "J.K. Rowling",
+        "anoPubli": "1997-06-26",
+        "quantidadeEstoque": 30
+    },
+    {
+        "titulo": "O Grande Gatsby",
+        "autor": "F. Scott Fitzgerald",
+        "anoPubli": "1925-04-10",
+        "quantidadeEstoque": 15
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "autor": "Thomas Harris",
+        "anoPubli": "1988-08-29",
+        "quantidadeEstoque": 12
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "autor": "Mario Puzo",
+        "anoPubli": "1969-03-10",
+        "quantidadeEstoque": 18
+    },
+    {
+        "titulo": "Clube da Luta",
+        "autor": "Chuck Palahniuk",
+        "anoPubli": "1996-08-17",
+        "quantidadeEstoque": 9
+    },
+    {
+        "titulo": "Orgulho e Preconceito",
+        "autor": "Jane Austen",
+        "anoPubli": "1813-01-28",
+        "quantidadeEstoque": 22
+    },
+    {
+        "titulo": "O Iluminado",
+        "autor": "Stephen King",
+        "anoPubli": "1977-01-28",
+        "quantidadeEstoque": 14
+    },
+    {
+        "titulo": "Jurassic Park",
+        "autor": "Michael Crichton",
+        "anoPubli": "1990-11-20",
+        "quantidadeEstoque": 17
+    },
+    {
+        "titulo": "O Guia do Mochileiro das Galáxias",
+        "autor": "Douglas Adams",
+        "anoPubli": "1979-10-12",
+        "quantidadeEstoque": 20
+    },
+    {
+        "titulo": "Forrest Gump",
+        "autor": "Winston Groom",
+        "anoPubli": "1986-04-01",
+        "quantidadeEstoque": 11
+    },
+    {
+        "titulo": "A Menina que Roubava Livros",
+        "autor": "Markus Zusak",
+        "anoPubli": "2005-09-01",
+        "quantidadeEstoque": 16
+    },
+    {
+        "titulo": "Duna",
+        "autor": "Frank Herbert",
+        "anoPubli": "1965-08-01",
+        "quantidadeEstoque": 28
+    },
+    {
+        "titulo": "O Código Da Vinci",
+        "autor": "Dan Brown",
+        "anoPubli": "2003-03-18",
+        "quantidadeEstoque": 19
+    },
+    {
+        "titulo": "Psicose",
+        "autor": "Robert Bloch",
+        "anoPubli": "1959-04-10",
+        "quantidadeEstoque": 8
+    },
+    {
+        "titulo": "aa",
+        "autor": "a",
+        "anoPubli": "a",
+        "quantidadeEstoque": 0
+    },
+    {
+        "titulo": "ABC",
+        "autor": "valeria",
+        "anoPubli": "2025",
+        "quantidadeEstoque": 99
+    },
+    {
+        "titulo": "ABC 22",
+        "autor": "valeria",
+        "anoPubli": "2025",
+        "quantidadeEstoque": 99
+    },
+    {
+        "titulo": "ABC 22",
+        "autor": "valeria",
+        "anoPubli": "2025",
+        "quantidadeEstoque": 99
+    }
+]
